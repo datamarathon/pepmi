@@ -13,5 +13,5 @@ Members
 - Tatyana Gubin
 - Jihye Jang
 - Juan Sebastian Osorio
-- Kazuki Yoshida
+- Kazuki Yoshida (personal repos: https://github.com/kaz-yos/)
 
